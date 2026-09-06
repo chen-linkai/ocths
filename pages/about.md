@@ -12,4 +12,4 @@ title: 学校简介
 
 ## 学校介绍
 
-![](weixin-qr.webp)
+![](img/weixin-qr.webp)
