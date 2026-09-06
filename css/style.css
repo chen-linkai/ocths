@@ -266,7 +266,7 @@ main { flex: 1; }
 .disclaimer button:hover { background: var(--primary-dark); }
 
 .site-footer { background: var(--primary-deep); color: #d6e0ee; margin-top: 12px; }
-.footer-top { display: grid; grid-template-columns: 1.3fr 1fr 1fr 1.6fr; gap: 30px; padding: 46px 0 34px; }
+.footer-top { display: grid; grid-template-columns: 1fr 1fr 1.6fr; gap: 30px; padding: 46px 0 34px; }
 .f-name { color: #fff; font-size: 22px; font-weight: 800; letter-spacing: 2px; }
 .f-full { margin-top: 6px; font-size: 13px; color: #a7bad4; }
 .f-title { color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 14px; letter-spacing: 1px; }
