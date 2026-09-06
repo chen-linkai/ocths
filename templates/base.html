@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{META_DESC}}">
+    <title>{{TITLE}}</title>
+    <link rel="icon" href="{{FAVICON}}" type="image/x-icon">
+    <link rel="stylesheet" href="{{CSS}}">
+</head>
+<body class="page-{{PAGE}}">
+
+<div class="page-shell">
+
+    <header class="site-header" id="top">
+        <div class="container hd">
+            <button class="nav-toggle" id="navToggle" type="button" aria-label="展开菜单" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+
+            <a class="brand" href="{{PRE}}index.html">
+                {{BRAND}}
+            </a>
+
+            <div class="hd-search" id="hdSearch">
+                <button class="hd-search-toggle" type="button" id="hdSearchBtn" aria-label="站内搜索"
+                        aria-expanded="false" aria-controls="hdSearchForm">
+                    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+                        <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+                        <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </button>
+                <form class="hd-search-form" id="hdSearchForm" action="{{PRE}}search.html" method="get" role="search">
+                    <input type="search" name="q" aria-label="站内搜索" autocomplete="off">
+                    <button type="submit">搜索</button>
+                </form>
+            </div>
+        </div>
+
+        <nav class="main-nav" id="mainNav" aria-label="主导航">
+            <div class="container nav-inner">
+                {{NAV}}
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        {{CONTENT}}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-top">
+            <div class="f-col">
+                <p class="f-title">走进侨高</p>
+                <ul>{{F_LINKS}}</ul>
+            </div>
+            <div class="f-col">
+                <p class="f-title">新闻资讯</p>
+                <ul>{{F_NEWS}}</ul>
+            </div>
+            <div class="f-col">
+                <p class="f-title">联系方式</p>
+                <ul class="f-contact">{{CONTACT}}</ul>
+                <div class="f-friend"><b>友情链接：</b>{{LINKS}}</div>
+            </div>
+        </div>
+        <div class="footer-bot">
+            <div class="container footer-bot-in">
+                <p>© <span id="year"></span> {{SITE_FULL}} · 版权所有</p>
+                <p><a href="{{PRE}}terms.html">使用条款</a></p>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+<div class="disclaimer" id="disclaimer" hidden>
+    <p class="disc-text">{{DISCLAIMER}}</p>
+    <button type="button" id="disclaimerOk">我知道了</button>
+</div>
+
+<script>
+    (function () {
+        var y = document.getElementById("year");
+        if (y) { y.textContent = new Date().getFullYear(); }
+
+        var toggle = document.getElementById("navToggle");
+        var nav = document.getElementById("mainNav");
+        if (toggle && nav) {
+            toggle.addEventListener("click", function () {
+                var open = nav.classList.toggle("open");
+                toggle.setAttribute("aria-expanded", open ? "true" : "false");
+            });
+        }
+
+        var sBox = document.getElementById("hdSearch");
+        var sBtn = document.getElementById("hdSearchBtn");
+        var sForm = document.getElementById("hdSearchForm");
+        var sInput = sForm ? sForm.querySelector('input[name="q"]') : null;
+        if (sBox && sBtn) {
+            sBtn.addEventListener("click", function (e) {
+                e.stopPropagation();
+                var open = sBox.classList.toggle("open");
+                sBtn.setAttribute("aria-expanded", open ? "true" : "false");
+                if (open && sInput) { sInput.focus(); }
+            });
+            if (sInput) {
+                sInput.addEventListener("keydown", function (e) {
+                    if (e.key === "Escape") {
+                        sBox.classList.remove("open");
+                        sBtn.setAttribute("aria-expanded", "false");
+                        sInput.blur();
+                    }
+                });
+            }
+            document.addEventListener("click", function (e) {
+                if (!sBox.contains(e.target)) {
+                    sBox.classList.remove("open");
+                    sBtn.setAttribute("aria-expanded", "false");
+                }
+            });
+        }
+
+        var KEY = "ocths_disclaimer_ok";
+        var disc = document.getElementById("disclaimer");
+        var ok = document.getElementById("disclaimerOk");
+        try {
+            if (disc && !localStorage.getItem(KEY)) { disc.hidden = false; }
+        } catch (e) {  }
+        if (disc && ok) {
+            ok.addEventListener("click", function () {
+                disc.hidden = true;
+                try { localStorage.setItem(KEY, "1"); } catch (e) {}
+            });
+        }
+    })();
+</script>
+</body>
+</html>

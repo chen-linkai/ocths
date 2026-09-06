@@ -1,0 +1,18 @@
+{
+  "name": "ocths",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.24.0",
+  "scripts": {
+    "build": "node lib/build.mjs",
+    "preview": "pnpm build && pnpm dlx http-server build -p 8080"
+  },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
+  "dependencies": {
+    "marked": "^18.0.11"
+  }
+}
