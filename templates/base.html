@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{BASE}}
     <meta name="description" content="{{META_DESC}}">
     <title>{{TITLE}}</title>
     <link rel="icon" href="{{FAVICON}}" type="image/x-icon">
@@ -18,7 +19,7 @@
                 <span></span><span></span><span></span>
             </button>
 
-            <a class="brand" href="{{PRE}}index.html">
+            <a class="brand" href="{{HOME}}">
                 {{BRAND}}
             </a>
 
@@ -30,7 +31,7 @@
                         <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
                     </svg>
                 </button>
-                <form class="hd-search-form" id="hdSearchForm" action="{{PRE}}search.html" method="get" role="search">
+                <form class="hd-search-form" id="hdSearchForm" action="{{SEARCH_URL}}" method="get" role="search">
                     <input type="search" name="q" aria-label="站内搜索" autocomplete="off">
                     <button type="submit">搜索</button>
                 </form>
@@ -67,7 +68,7 @@
         <div class="footer-bot">
             <div class="container footer-bot-in">
                 <p>© <span id="year"></span> {{SITE_FULL}} · 版权所有</p>
-                <p><a href="{{PRE}}terms.html">使用条款</a></p>
+                <p><a href="{{TERMS_URL}}">使用条款</a></p>
             </div>
         </div>
     </footer>
@@ -126,7 +127,7 @@
         var ok = document.getElementById("disclaimerOk");
         try {
             if (disc && !localStorage.getItem(KEY)) { disc.hidden = false; }
-        } catch (e) {  }
+        } catch (e) { }
         if (disc && ok) {
             ok.addEventListener("click", function () {
                 disc.hidden = true;
