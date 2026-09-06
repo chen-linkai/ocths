@@ -3,6 +3,7 @@ title: 科创社招新
 date: 2026-09-06
 category: 新闻投稿
 author: 陈林锴
+image: img/news/2026/09/06/微信图片_20260906154615_2121_21.webp
 summary: 科创社面向全体高一年级学生招新。
 ---
 
