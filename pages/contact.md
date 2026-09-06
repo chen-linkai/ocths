@@ -17,7 +17,7 @@ summary: 欢迎通过电话、邮件或来访等方式与学校或网站运营�
 
 > 更多详见 [深圳市南山实验教育集团华侨城高级中学-公办普高-深圳市招生考试办公室](https://szeb.sz.gov.cn/szzkw/ztzl/gzjdxxbxtsjs/gbpg/content/post_12124005.html)。
 > 或用微信扫描下方二维码：
-> <span style="white-space: nowrap;"><img src="img/weixin-official-account.webp" alt="" width="120"> <img src="img/weixin-service-account.webp" alt="" width="120"></span>
+> <img src="img/weixin-official-account.webp" alt="" width="120" style="display: inline;"> <img src="img/weixin-service-account.webp" alt="" width="120" style="display: inline;">
 
 ## 联系管理
 
