@@ -190,6 +190,7 @@ main { flex: 1; }
 .dot-list .txt { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 15px; }
 .dot-list .date { color: var(--muted); font-size: 13px; flex: 0 0 auto; }
 .dot-list li:first-child a { padding-top: 4px; }
+.dot-panel { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 8px 22px; }
 
 .page-banner { background: linear-gradient(120deg, var(--primary-deep), var(--primary) 75%, #2f6fc0); color: #fff; }
 .page-banner-inner { padding: 44px 0 40px; }
