@@ -279,6 +279,8 @@ main { flex: 1; }
 .f-friend b { color: #d6e0ee; font-weight: 400; margin-right: 6px; }
 .f-friend a { color: #9fb5cf; margin-right: 10px; white-space: nowrap; }
 .f-friend a:hover { color: #fff; }
+.f-terms { color: #9fb5cf; float: right; white-space: nowrap; }
+.f-terms:hover { color: #fff; }
 
 .bot-sep { margin: 0 8px; opacity: .5; }
 
