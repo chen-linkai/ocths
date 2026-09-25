@@ -25,6 +25,7 @@ body {
   overflow-x: hidden;
 }
 img { max-width: 100%; display: block; }
+video { max-width: 100%; display: block; }
 a { color: var(--primary); text-decoration: none; }
 a:hover { color: var(--primary-dark); }
 ul, ol { margin: 0; padding: 0; list-style: none; }
@@ -208,6 +209,7 @@ main { flex: 1; }
 .article-content h3 { font-size: 19px; font-weight: 700; margin-top: 1.4em; }
 .article-content a { text-decoration: underline; text-underline-offset: 3px; }
 .article-content img { border-radius: 8px; margin: 8px 0; }
+.article-content video { border-radius: 8px; margin: 8px 0; }
 .article-content ul, .article-content ol { padding-left: 1.5em; }
 .article-content ul { list-style: disc; }
 .article-content ol { list-style: decimal; }
