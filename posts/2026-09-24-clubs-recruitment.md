@@ -20,3 +20,5 @@ image: img/news/2026/09/24/IMG_20260924_170848.webp
 
 此次活动令同学们感受到了浓厚的校园氛围，
 共同期待后续的精彩活动吧！
+
+> 更多详见 [侨高操场今天怎么这么热闹？点开看→](https://mp.weixin.qq.com/s/9HGEGbX61uP0gud-h_4mYQ)。
