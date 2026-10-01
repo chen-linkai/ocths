@@ -21,4 +21,8 @@ image: img/news/2026/09/24/IMG_20260924_170848.webp
 此次活动令同学们感受到了浓厚的校园氛围，
 共同期待后续的精彩活动吧！
 
-> 更多详见 [侨高操场今天怎么这么热闹？点开看→](https://mp.weixin.qq.com/s/9HGEGbX61uP0gud-h_4mYQ)。
+#### 相关链接
+
+南山实验教育集团华侨城高级中学 _（微信公众号）_：[侨高操场今天怎么这么热闹？点开看→](https://mp.weixin.qq.com/s/9HGEGbX61uP0gud-h_4mYQ)
+
+南山实验教育集团华侨城高级中学 _（微信视频号）_：[视频号](https://weixin.qq.com/sph/AzY5PwX4zT)

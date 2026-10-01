@@ -10,4 +10,6 @@ image: img/news/2026/09/30/cover.webp
 
 ![](img/news/2026/09/30/校园吉祥物设计大赛活动方案.webp)
 
-> 更多详见 [国庆宅家不如搞点大事｜侨高两个活动等你来 - 小红书](https://www.xiaohongshu.com/explore/6abcebf20000000018005b1b)。
+#### 相关链接
+
+华侨城高级中学学生会 _（小红书）_：[国庆宅家不如搞点大事｜侨高两个活动等你来 - 小红书](https://www.xiaohongshu.com/explore/6abcebf20000000018005b1b)

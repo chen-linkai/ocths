@@ -16,4 +16,12 @@ image: img/news/2026/09/29/6kA4xS3TFQFc6ficUJoTR0qjK0P4hFCHSclkCDRCicPSP1N4QW9Ms
 
 在这即将迎来的国庆节日里，让我们共同为我们的祖国唱响礼乐！
 
-> 更多详见 [千名少年同声告白，祝福祖国母亲生日快乐](https://mp.weixin.qq.com/s/fBjrVhBy96j_rqRI2Fi3_w)。
+#### 相关链接
+
+南山实验教育集团华侨城高级中学 _（微信公众号）_：[千名少年同声告白，祝福祖国母亲生日快乐](https://mp.weixin.qq.com/s/fBjrVhBy96j_rqRI2Fi3_w)
+
+南山实验教育集团华侨城高级中学 _（微信视频号）_：[视频号](https://weixin.qq.com/sph/Ah8e2QmL0R)、[视频号](https://weixin.qq.com/sph/A8nRCO3Yg8)
+
+华侨城高级中学青藜融媒社 _（抖音）_：[天安门国旗班首任班长来我们侨高了！ #校园爱国合唱 #校园歌唱祖国 #校园爱国风采 #家国情怀在校园 #华侨城高级中学 - 抖音](https://www.douyin.com/video/7691301192547350243)、[我们用歌声 祝福祖国母亲生日快乐 #热爱祖国合唱比赛 #国庆节 #国庆档在抖音 #爱国主题合唱比赛 - 抖音](https://www.douyin.com/video/7691522555740913061)
+
+华侨城高级中学青藜学生融媒社 _（小红书）_：[天安门国旗班首任班长来我们侨高了！ - 小红书](https://www.xiaohongshu.com/explore/6abcfd51000000001802a191)、[为祖国歌唱 - 小红书](https://www.xiaohongshu.com/explore/6abdc9bc0000000015001310)

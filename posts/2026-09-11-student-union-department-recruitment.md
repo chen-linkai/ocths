@@ -24,4 +24,6 @@ author: 陈林锴
 - **外联部**：负责与学校向外的相关工作，例如情归纸笔、外国友人交流活动等。
 - **主席团**：负责监督其它部门，并起到领导作用，**通常于高一下学期进行相关选拨活动**。
 
-> 更多详见 [学生会简介](https://mp.weixin.qq.com/s/IPsCrgmfg0UyZRLvSEoafQ)。
+#### 相关链接
+
+华侨城学生大杂烩 _（微信公众号）_：[学生会简介](https://mp.weixin.qq.com/s/IPsCrgmfg0UyZRLvSEoafQ)
