@@ -55,3 +55,11 @@ title: 学校简介
 隶属于学生社团“青藜融媒社”。
 
 小红书账号主页：[华侨城高级中学青藜学生融媒社 - 小红书](https://www.xiaohongshu.com/user/profile/6915ed8f000000003700b9c8)
+
+### 深圳市华侨城高级中学棒球队
+
+隶属于学校棒球队。
+
+抖音账号主页：[深圳市华侨城高级中学棒球队的抖音 - 抖音](https://www.douyin.com/user/MS4wLjABAAAAs_2b5OSxx10CKuUvoC2hlxq8M2u5nhOQgOBM_faIDmuldcb6H_Lc-Rcz8ebWW4-5)
+
+小红书账号主页：[深圳市华侨城高级中学棒球队 - 小红书](https://www.xiaohongshu.com/user/profile/65b212e6000000000d01c10a)
