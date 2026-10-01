@@ -58,7 +58,7 @@ title: 学校简介
 
 ### 深圳市华侨城高级中学棒球队
 
-隶属于学校棒球队。
+隶属于学校棒球队，微信视频号账号同名。
 
 抖音账号主页：[深圳市华侨城高级中学棒球队的抖音 - 抖音](https://www.douyin.com/user/MS4wLjABAAAAs_2b5OSxx10CKuUvoC2hlxq8M2u5nhOQgOBM_faIDmuldcb6H_Lc-Rcz8ebWW4-5)
 
