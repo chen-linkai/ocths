@@ -3,6 +3,7 @@ title: “声动金秋，乐献祖国”——华侨城高级中学高一迎国�
 date: 2026-09-29
 category: 新闻投稿
 author: 陈林锴
+image: img/news/2026/09/29/6kA4xS3TFQFc6ficUJoTR0qjK0P4hFCHSclkCDRCicPSP1N4QW9MsHdEQib6f0EcsGichGQuL3wX33Y5mht0K0MclE9nichXWZj6IeI1c4ib1nnWE.webp
 ---
 
 国庆前夕，高一年级组以歌为媒组织并举办了“声动金秋，乐献祖国”合唱比赛。
