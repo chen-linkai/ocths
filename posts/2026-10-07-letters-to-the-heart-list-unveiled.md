@@ -7,7 +7,7 @@ author: 陈林锴
 
 ## 活动名单
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/40bOpfnqrjuvwrP8CZMh9RxYf5qgUB9uRGIAxCibhNVv7o7Vag18pvlRfmW5BqsciaLiaZnD2w5UysEia0FB3Q60oguibuCagCgEicEknUUqPhBUU/640)
+![](img/news/2026/10/07/40bOpfnqrjuvwrP8CZMh9RxYf5qgUB9uRGIAxCibhNVv7o7Vag18pvlRfmW5BqsciaLiaZnD2w5UysEia0FB3Q60oguibuCagCgEicEknUUqPhBUU.webp)
 
 ## 注意事项
 
