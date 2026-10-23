@@ -63,3 +63,11 @@ title: 学校简介
 抖音账号主页：[深圳市华侨城高级中学棒球队的抖音 - 抖音](https://www.douyin.com/user/MS4wLjABAAAAs_2b5OSxx10CKuUvoC2hlxq8M2u5nhOQgOBM_faIDmuldcb6H_Lc-Rcz8ebWW4-5)
 
 小红书账号主页：[深圳市华侨城高级中学棒球队 - 小红书](https://www.xiaohongshu.com/user/profile/65b212e6000000000d01c10a)
+
+### 侨高体育
+
+隶属于学校体育组，微信视频号账号同名。
+
+微信公众号二维码：
+
+<img src="https://open.weixin.qq.com/qr/code?username=gh_1fbc96182232" alt="" width="120" style="display: inline;">
