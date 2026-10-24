@@ -8,3 +8,5 @@ author: 陈林锴
 #### 相关链接
 
 南山实验教育集团华侨城高级中学 _（微信公众号）_：[当德国少年遇上侨高，会发生什么？](https://mp.weixin.qq.com/s/K_ewlucnstZ-bLZg4nOKGw)
+
+南山实验教育集团华侨城高级中学 _（微信视频号）_：[视频号](https://weixin.qq.com/sph/AdxEWPvNeI)
