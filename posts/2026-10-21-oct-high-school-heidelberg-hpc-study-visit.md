@@ -3,6 +3,7 @@ title: “跨越山海，相聚侨高”——德国赋优教育集团海德堡H
 date: 2026-10-21
 category: 新闻投稿
 author: 陈林锴
+image: img/news/2026/10/21/6kA4xS3TFQHShQeO8M3afL4EoTuoMIZHtny4s2SuRicZbIFg9ibfEuegxIXDnMWB996bpnwCchlIeychfqibOX5wEJr0ibPu69rmiaro3oDKGfPc.webp
 ---
 
 #### 相关链接
